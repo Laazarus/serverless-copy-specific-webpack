@@ -1,0 +1,1 @@
+serverless-copy-specific-webpack
